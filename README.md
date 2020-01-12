@@ -1,2 +1,3 @@
-# k8s-in-action
+# k3s in action
+
 Kubernetes in Github Action
